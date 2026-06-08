@@ -1,0 +1,25 @@
+id_motorista,nome_motorista,categoria_cnh,placa_veiculo,modelo_veiculo,capacidade_max_kg,produto,peso_kg,destino,status
+1,Diego Meneses,D,ABC1B23,Volvo FH 540,45000,Cimento,15000.0,Feira de Santana,entregue
+2,Jose Alencar,E,XYZ9X87,Scania R450,40000,Tijolo,22000.0,Salvador,em transito
+1,Diego Meneses,D,ABC1B23,Volvo FH 540,45000,Argamassa,500.5,Camacari,pendente
+3,Marcos Silva,C,KGB3J44,Mercedes Atego,16000,Ferro 3/8,12000.0,Feira de Santana,ENTREGUE
+4,Ana Costa,D,MNO5T11,Volkswagen Constellation,24000,Telhas,25000.0,Alagoinhas,em transito
+5,Carlos Santos,E,REI4M22,Volvo FH 460,40000,Soja,38000.0,Porto de Aratu,entregue
+6,Paulo Souza,D,DFG7H88,Scania G420,32000,Milho,30000.0,Barreiras,EM TRANSITO
+7,Lucas Oliveira,E,JKL2K33,DAF XF 105,45000,Fertilizante,42000.0,Luiz Eduardo Magalhaes,pendente
+8,Fernando Lima,C,POU9O11,Ford Cargo 2428,15000,Bebidas,14000.0,Salvador,entregue
+9,Roberto Rocha,D,QWE6Q55,Iveco Stralis,30000,Alimentos,28000.0,Feira de Santana,pendente
+10,Ricardo Alves,E,VBN3V44,Mercedes Actros,45000,Bobina de Aco,44000.0,Simoes Filho,entregue
+11,Andre Ribeiro,D,ZXC8Z99,Volvo VM 270,18000,Cimento,20000.0,Vitoria da Conquista,em transito
+12,Fabio Melo,C,ASD1A22,Volkswagen Delivery,8000,Encomendas,5000.0,Salvador,ENTREGUE
+13,Bruno Carvalho,D,TYU4T55,Scania P310,23000,Madeira,21000.0,Eunapolis,pendente
+14,Eduardo Gomes,E,GHJ7G66,Volvo FH 540,45000,Pedra Britada,43000.0,Camacari,em transito
+15,Alexandre Cruz,D,BNM2B11,Mercedes Axor,26000,Areia,25000.0,Lauro de Freitas,entregue
+16,Marcelo Dias,C,RTY5R66,Ford Cargo 1119,7000,Gelo,5500.0,Salvador,entregue
+17,Rodrigo Martins,E,UIO9U88,DAF CF,35000,Combustivel,34000.0,Jequie,EM TRANSITO
+18,Thiago Ferreira,D,PAS3S44,Iveco Tector,20000,Tijolo,18000.0,Itabuna,pendente
+19,Gabriel Barbosa,D,LKH6K55,Volkswagen Constellation,24000,Alimentos,23500.0,Ilheus,entregue
+20,Leandro Nogueira,E,MNB1B22,Scania R500,45000,Gado,40000.0,Feira de Santana,em transito
+21,Vitor Augusto,C,VCX9C88,Mercedes Atego,16000,Ferragens,15500.0,Santo Antonio de Jesus,pendente
+2,Jose Alencar,E,XYZ9X87,Scania R450,40000,Telhas,10000.0,Feira de Santana,entregue
+5,Carlos Santos,E,REI4M22,Volvo FH 460,40000,Soja,39000.0,Porto de Aratu,pendente
